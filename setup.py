@@ -54,7 +54,7 @@ setup(
     keywords=['fasttext', 'language detection', 'language identification'],
     description='fasttext with wheels and no external dependency, but only the predict method (<1MB)',
     long_description=_get_readme(),
-    url='https://github.com/searxng/fasttext-predict/',
+    url='https://github.com/coozila/fasttext-predict/',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
